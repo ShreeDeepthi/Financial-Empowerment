@@ -1,4 +1,5 @@
 Financial Empowerment App for Women
+
 Overview
 This application is designed to enhance financial literacy and empowerment among women. It provides tools for budgeting, investment tracking, AI-driven financial insights, and gamified learning experiences.
 
